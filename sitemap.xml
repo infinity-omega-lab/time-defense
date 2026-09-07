@@ -1,13 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/privacy/</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/privacy/privacy_policy_ja.html</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/help/</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/help/billing_ja.html</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/help/ai_reading_notice_ja.html</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/support/</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/llms.txt</loc></url>
-  <url><loc>https://infinity-omega-lab.github.io/time-defense/time_defense_site/llms-full.txt</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_ja.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_ja.md</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_en.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_en.md</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_es.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_es.md</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_pt-BR.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_pt-BR.md</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_de.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_de.md</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_fr.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/privacy/privacy_policy_fr.md</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/help/</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/help/billing_ja.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/help/ai_reading_notice_ja.html</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/support/</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/llms.txt</loc></url>
+  <url><loc>https://infinity-omega-lab.github.io/time-defense/llms-full.txt</loc></url>
 </urlset>
 

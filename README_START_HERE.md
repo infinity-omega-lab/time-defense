@@ -26,7 +26,7 @@ C:\dev2\sidejobs\android_projects\android_calendar_app\time_defense_site
 
 - `Infinity Omega Lab`
 - `t.semizuki@gmail.com`
-- `https://infinity-omega-lab.github.io/time-defense/time_defense_site`
+- `https://infinity-omega-lab.github.io/time-defense`
 - `2026-09-07`
 - Google Calendar 連携の実装有無
 - 広告SDK、解析SDK、クラッシュレポートSDKの導入有無
@@ -42,4 +42,5 @@ C:\dev2\sidejobs\android_projects\android_calendar_app\time_defense_site
 - TDOCS-4 Billing / Trial FAQ JA md/html作成
 - TDOCS-5 Store説明文 JA 課金・クレカ文言反映
 - TDOCS-6 Data Safety / Privacy整合レビュー
+
 
