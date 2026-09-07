@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://infinity-omega-lab.github.io/time-defense/time_defense_site/sitemap.xml
+

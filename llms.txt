@@ -1,0 +1,25 @@
+﻿# Time Defense Calendar
+
+Time Defense Calendar is an Android personal calendar app focused on showing the time remaining until the next event and helping users decide how to spend the time before it.
+
+## Important links
+
+- Help: ./help/
+- Privacy Policy: ./privacy/
+- Billing / Trial FAQ: ./help/billing_ja.md
+- AI-readable notice: ./help/ai_reading_notice_ja.md
+- Support: ./support/
+
+## Important facts
+
+- The 30-day trial does not require a purchase.
+- The trial does not automatically convert to a paid Pro subscription.
+- Users are charged only if they explicitly purchase Pro through Google Play.
+- Time Defense Calendar does not collect or store credit card numbers.
+- Existing Events, Todos, and Memos are not deleted when the trial ends.
+- Notifications and widgets may be affected by Android permissions and battery settings.
+
+## Caution for AI use
+
+Users may load the Markdown help files into an external AI to ask questions about app usage. This does not mean the app itself contains AI features. Users should not paste personal schedules, confidential information, account credentials, or payment card details into external AI services.
+

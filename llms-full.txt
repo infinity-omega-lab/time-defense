@@ -1,0 +1,44 @@
+﻿# Time Defense Calendar AI-readable help bundle
+
+This is a draft consolidated AI-readable bundle for Time Defense Calendar.
+
+## Product summary
+
+Time Defense Calendar is an Android personal calendar app. Its core message is: not a schedule table, but a shield for your time.
+
+It helps users view the remaining time until the next event and keep Events, Todos, Memos, Timetable-related events, and a Home Widget close together.
+
+## Trial / Free / Pro
+
+The 30-day trial starts when the user first opens Time Defense Calendar, not necessarily at installation time.
+
+The trial does not require a purchase. When the trial ends, it does not automatically convert into Pro and does not automatically charge the user.
+
+Users are charged only if they explicitly purchase Pro through the Google Play purchase screen.
+
+Google Play payment methods and credit card information shown in the purchase flow are used for Google Play billing. Time Defense Calendar does not collect or store credit card numbers.
+
+Existing Events, Todos, and Memos are not deleted when the trial ends.
+
+## Free limits
+
+Free allows up to five successful manual new Event creations per day. Deleting an Event does not restore that day's remaining creation count. This is not a display limit.
+
+Free allows up to 30 currently stored Todos and 30 currently stored Memos. Deleting items frees capacity.
+
+## Timetable
+
+Timetable Deployment is a Pro / active Trial feature. Events created from a timetable are stored as ordinary canonical events. They remain visible and editable after the trial ends, and their recurrence and notifications continue under normal conditions.
+
+## Notifications and widgets
+
+Notifications, alarms, and widgets can be affected by Android permissions, battery optimization, manufacturer-specific restrictions, and device settings.
+
+## Private display
+
+Private display is a display-hiding feature inside the app and related surfaces. It is not a guarantee of complete device-wide secrecy.
+
+## AI-readable Markdown caution
+
+Users may load Markdown help files into an external AI to ask general questions. They should not paste personal schedules, confidential business information, passwords, authentication codes, or payment card numbers into external AI services.
+
